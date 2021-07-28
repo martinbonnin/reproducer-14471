@@ -1,0 +1,2 @@
+include(":mpp")
+include(":android")
